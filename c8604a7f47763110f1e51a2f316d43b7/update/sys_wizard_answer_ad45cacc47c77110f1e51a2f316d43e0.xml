@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Pedidos</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Pedidos</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d89b8828d9313110cedf7dffddb48f0d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 21:07:10</sys_created_on>
+        <sys_id>ad45cacc47c77110f1e51a2f316d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_update_name>sys_wizard_answer_ad45cacc47c77110f1e51a2f316d43e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 21:07:10</sys_updated_on>
+        <table/>
+        <target_url>x_1156764_gest_o_0_pedidos.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

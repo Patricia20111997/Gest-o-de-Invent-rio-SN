@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_quantidade" table="x_1156764_gest_o_0_1701834212180">
+        <active>true</active>
+        <array>false</array>
+        <attributes>import_attribute_name=Quantidade</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Quantidade</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_quantidade</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Integer">integer</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1156764_gest_o_0_1701834212180</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 03:43:35</sys_created_on>
+        <sys_id>6e665ab747f63110f1e51a2f316d43ec</sys_id>
+        <sys_name>Quantidade</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_update_name>sys_dictionary_x_1156764_gest_o_0_1701834212180_u_quantidade</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 03:43:35</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</application>
+        <file_path/>
+        <instance_id>b06321a21b223550699443f4bd4bcb80</instance_id>
+        <instance_name>dev217424</instance_name>
+        <name>sys_dictionary_x_1156764_gest_o_0_1701834212180_u_quantidade</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_quantidade" table="x_1156764_gest_o_0_1701834212180"><active>true</active><array>false</array><attributes>import_attribute_name=Quantidade</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Quantidade</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_quantidade</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Integer">integer</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1156764_gest_o_0_1701834212180</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 03:43:35</sys_created_on><sys_id>6e665ab747f63110f1e51a2f316d43ec</sys_id><sys_name>Quantidade</sys_name><sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope><sys_update_name>sys_dictionary_x_1156764_gest_o_0_1701834212180_u_quantidade</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 03:43:35</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1154794197</payload_hash>
+        <record_name>Gest O 0 1701834212180.Quantidade</record_name>
+        <reverted_from/>
+        <source>0c604a7f47763110f1e51a2f316d43bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 03:43:35</sys_created_on>
+        <sys_id>ae669ab747f63110f1e51a2f316d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3d394f830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 03:43:35</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>26669ab7f8f63110d4044b42e551d309</update_guid>
+        <update_guid_history>26669ab7f8f63110d4044b42e551d309:-1154794197</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 03:44:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>385d0c17a8f140baa2814c847b78b9a1</sys_id>
+        <sys_metadata>6e665ab747f63110f1e51a2f316d43ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quantidade</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_parent display_value="">62665ab747f63110f1e51a2f316d43e3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_scope_delete display_value="">1cd80bf1a8dc4e8991710da40b04eb21</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1156764_gest_o_0_1701834212180_u_quantidade</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1156764_gest_o_0_1701834212180_u_quantidade">ae669ab747f63110f1e51a2f316d4309</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 03:44:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

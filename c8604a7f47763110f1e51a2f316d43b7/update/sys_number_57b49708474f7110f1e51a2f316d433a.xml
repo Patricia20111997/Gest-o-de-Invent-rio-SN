@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1156764_gest_o_0_pedidos">x_1156764_gest_o_0_pedidos</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>REQUES</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 02:54:21</sys_created_on>
+        <sys_id>57b49708474f7110f1e51a2f316d433a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REQUES</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_update_name>sys_number_57b49708474f7110f1e51a2f316d433a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 02:54:21</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Pedidos</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Pedidos</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d89b8828d9313110cedf7dffddb48f0d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 03:14:33</sys_created_on>
+        <sys_id>2dcf0abf47b63110f1e51a2f316d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_update_name>sys_wizard_answer_2dcf0abf47b63110f1e51a2f316d4305</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 03:14:33</sys_updated_on>
+        <table/>
+        <target_url>x_1156764_gest_o_0_pedidos.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</application>
+        <file_path/>
+        <instance_id>b06321a21b223550699443f4bd4bcb80</instance_id>
+        <instance_name>dev217424</instance_name>
+        <name>sys_wizard_answer_2dcf0abf47b63110f1e51a2f316d4305</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Pedidos</answer><button_label/><dependent_value/><element/><name>Pedidos</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">d89b8828d9313110cedf7dffddb48f0d</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 03:14:33</sys_created_on><sys_id>2dcf0abf47b63110f1e51a2f316d4305</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Pedidos</sys_name><sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope><sys_update_name>sys_wizard_answer_2dcf0abf47b63110f1e51a2f316d4305</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 03:14:33</sys_updated_on><table/><target_url>x_1156764_gest_o_0_pedidos.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>469064017</payload_hash>
+        <record_name>Pedidos</record_name>
+        <reverted_from/>
+        <source>0c604a7f47763110f1e51a2f316d43bb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 03:14:33</sys_created_on>
+        <sys_id>65cf0abf47b63110f1e51a2f316d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3d1ebd6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 03:14:33</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>69cf0abf7db6311092894bd3f660c507</update_guid>
+        <update_guid_history>69cf0abf7db6311092894bd3f660c507:469064017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 03:39:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>152cdaaa5342433885536bb5ff7f80a4</sys_id>
+        <sys_metadata>2dcf0abf47b63110f1e51a2f316d4305</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_parent display_value="Task">d89b8828d9313110cedf7dffddb48f0d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_scope_delete display_value="">1cd80bf1a8dc4e8991710da40b04eb21</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_2dcf0abf47b63110f1e51a2f316d4305</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_2dcf0abf47b63110f1e51a2f316d4305">65cf0abf47b63110f1e51a2f316d4308</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 03:39:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

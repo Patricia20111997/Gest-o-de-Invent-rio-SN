@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 21:07:13</sys_created_on>
+        <sys_id>9a450ecc47c77110f1e51a2f316d43f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1156764_gest_o_0_pedidos.x_1156764_gest_o_0.admin</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+        <sys_security_acl display_value="x_1156764_gest_o_0_pedidos">9a450ecc47c77110f1e51a2f316d43ea</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9a450ecc47c77110f1e51a2f316d43f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 21:07:13</sys_updated_on>
+        <sys_user_role display_value="x_1156764_gest_o_0.admin" name="x_1156764_gest_o_0.admin">3dad423f47b63110f1e51a2f316d43d1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

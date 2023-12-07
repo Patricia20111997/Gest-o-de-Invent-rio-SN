@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Pedido" language="pt" table="x_1156764_gest_o_0_pedidos">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Pedido</label>
+            <language>pt</language>
+            <name>x_1156764_gest_o_0_pedidos</name>
+            <plural>Pedidos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 02:52:23</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Pedido</sys_name>
+            <sys_package display_value="Gestão de Inventário" source="x_1156764_gest_o_0">c8604a7f47763110f1e51a2f316d43b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">c8604a7f47763110f1e51a2f316d43b7</sys_scope>
+            <sys_update_name>sys_documentation_x_1156764_gest_o_0_pedidos__pt</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 02:52:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
